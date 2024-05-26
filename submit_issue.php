@@ -64,7 +64,7 @@ $conn->close();
 </head>
 <body>
     <header>
-        <h1>Målarfirmans Ärendehanteringssystem</h1>
+        <h1>Anders Målarsupport</h1>
     </header>
     <div class="message-container">
         <!-- Visa meddelandet om ärendet har skickats rätt eller om ett fel uppstod -->
